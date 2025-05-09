@@ -2,7 +2,7 @@
 
 Sou uma pessoa que sempre se interessou por tecnologia e que decidiu trilhar o caminho da programação.
 
-[![Portfólio](https://img.shields.io/website?label=SamuelVicentini.com&style=for-the-badge&url=http://samuelvicentini.com.br/)](http://samuelvicentini.com.br/)
+[![Portfólio](https://img.shields.io/website?label=SamuelVicentini.com&style=for-the-badge&url=https://samuelvicentini.com.br/)](https://samuelvicentini.com.br/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-vicentini)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samueldesouzavicentini@gmail.com)
 
